@@ -5,7 +5,9 @@
 ### Title: "Team Composition and Role Assignment Web-Based Application for Computing Research using Sorting Algorithm"
 
 #### Project Description:
+
 An intelligent team composition platform built for academic settings. This system addresses a core challenge in collaborative learning: misaligned team roles. It integrates the RIASEC interest model as the basis for data-driven role assignment. Given a set of team members, the application collects interest assessment results, processes psychometric profiles, and generates role recommendations designed to maximize complementarity and team cohesion. The platform targets institutions seeking evidence-based approaches to team formation.
+
 ---
 
 # ⚙️ Tools
