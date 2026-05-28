@@ -1,11 +1,11 @@
 
 # Thesis Project
 
+## Project: Zealia
 ### Title: "Team Composition and Role Assignment Web-Based Application for Computing Research using Sorting Algorithm"
 
 #### Project Description:
-This project aims to form cohesive, high-performing teams in educational settings by using Holland’s RIASEC interest test to assign appropriate roles to team members. This web-based application optimizes team composition, ensuring that members complement each other's strengths, enhancing overall efficiency and productivity.
-
+An intelligent team composition platform built for academic settings. This system addresses a core challenge in collaborative learning: misaligned team roles. It integrates the RIASEC interest model as the basis for data-driven role assignment. Given a set of team members, the application collects interest assessment results, processes psychometric profiles, and generates role recommendations designed to maximize complementarity and team cohesion. The platform targets institutions seeking evidence-based approaches to team formation.
 ---
 
 # ⚙️ Tools
